@@ -1,5 +1,6 @@
 [font]
-size = 13
+size = 16
+
  [window.padding]
 x = 5
 y = 5 
